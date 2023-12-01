@@ -1,0 +1,41 @@
+body{background: #654ea3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
+
+.barra{background: #ad5389;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3c1053, #ad5389); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+height: 70px;}
+
+.logo{width: 70px;
+height: 70px;}
+
+footer{display: flex;
+height: 80px;
+background: #ad5389;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3c1053, #ad5389); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.primera_seccion{background-image: url(../img/uni3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;}
+
+h1{text-align: center;}
+
+.d_f{display: flex;}
+
+.imagenes{width: 290px;
+height: 290px;}
+
+p{color: white;}
+.pp{color: white;}
+.ppp{font-size: x-large;
+font-family: 'Times New Roman', Times, serif;}
+.letracard{color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;}
+
